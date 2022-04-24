@@ -5,7 +5,8 @@ Projeto parte da formação HTML e CCS da Alura
 
 Deploy:https://paru369.github.io/HZC-Skate-Community/
 
-<img src="./assets/img/Screenshot%20.png"> 
+<img src="./assets/img/gif.gif"> 
+
 
 
 ## 🚀 Em excucução 
