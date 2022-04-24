@@ -45,7 +45,7 @@ em construção
 
 ## 🎁 Agradecimentos
 
-* Gratidão à equipe Rocketseat
+* Alura e instrutor Matheus Alberto
 
 
 ---
