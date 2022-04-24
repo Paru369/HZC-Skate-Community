@@ -3,7 +3,7 @@
 Página web criada em HTML, CSS e um poquinho de JS a partir de layout no figma.
 Projeto parte da formação HTML e CCS da Alura
 
-Deploy: https://paru369.github.io/Treine.me/
+Deploy:https://paru369.github.io/HZC-Skate-Community/
 
 <img src="./assets/img/Screenshot%20.png"> 
 
