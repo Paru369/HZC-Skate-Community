@@ -36,7 +36,7 @@ em construção
 
 ## ✒️ Autores
 
- * **Rocketseat**
+ * **ALURA**
 
 * **Paulo Victor Pinheiro** - *Trabalho Inicial* - [Paru - Paulo Victor](https://www.linkedin.com/in/paulo-pinheiro-4a94b0150/)
 
